@@ -12,12 +12,3 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 streamlit run dashboard.py
 ```
 
-# E-Commerce-Public-Dataset
-# E-Commerce-Public-Dataset
-# E-Commerce-Public-Dataset
-# E-Commerce-Public-Dataset
-# Analysis-E-commerce-public-dataset
-# Analysis-E-commerce-public-dataset
-# Analysis-E-commerce-public-dataset
-# Analysis-E-commerce-public-dataset
-# Analysis-E-commerce-public-dataset
